@@ -5,6 +5,7 @@
 
 ## 📫 How to Reach Us
 - **Email**
+- iukhan@mun.ca
 
 
 
