@@ -5,7 +5,7 @@ Technology R&D | Investment Management | Rapid Prototyping
 
 
 ## 📫 How to Reach Us
-- **Email**
+**Email**
 - iukhan@mun.ca
 - ceo@curvingarrowgroup.org
 
