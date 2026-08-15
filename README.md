@@ -1,5 +1,6 @@
 # Curving Arrow Group 
 
+Technology R&D | Investment Management | Rapid Prototyping
 
 
 
@@ -19,5 +20,5 @@
 - [Linkedin](https://www.linkedin.com/company/curvingarrowgroup/)
 ---
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+Feel free to explore our repositories and reach out if you have any questions or collaboration ideas.
 
