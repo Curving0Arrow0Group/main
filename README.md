@@ -6,6 +6,7 @@
 ## 📫 How to Reach Us
 - **Email**
 - iukhan@mun.ca
+- ceo@curvingarrowgroup.org
 
 
 ## 🔗 Links
